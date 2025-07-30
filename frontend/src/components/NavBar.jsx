@@ -5,7 +5,7 @@ function NavBar() {
     return <nav className="navbar">
         <div className="/">Movie App</div>
         <div className="navbar-links">
-            <Link to="/home" className="nav-link">Home</Link>
+            <Link to="/" className="nav-link">Home</Link>
             <Link to="/favorites" className="nav-link">Favorites</Link>
         </div>
     </nav>
