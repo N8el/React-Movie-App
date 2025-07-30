@@ -2,7 +2,7 @@
 
 This repository contains a React-based Movie Search Engine application. This project demonstrates the implementation of core React concepts by integrating with The Movie Database (TMDB) API to fetch and display comprehensive movie information. The application provides users with the ability to discover popular films, search for specific movie titles, and manage a personalized list of favorite movies.
 
-You can vist the website at: `TBD`
+You can vist the website at: https://n8el.github.io/React-Movie-App/
 
 ---
 
@@ -10,7 +10,7 @@ You can vist the website at: `TBD`
 
 * **Popular Movie Display:** Precents a curated list of currently popular films upon application load.
 * **Dynamic Search Functionality:** Enables users to search for movies by title, providing real-time results.
-* **Favorites Management:** Allows users to add or remove movies from a personal favorites collection. **(In Progress)**
+* **Favorites Management:** Allows users to add or remove movies from a personal favorites collection.
 * **Persistent Favorites:** Utilizes browser's Local Storage to ensure favorite selections persist across sessions.
 * **Intuitive Navigation:** Implements client-side routing for seamless transitions between the main movie listing and the favorites page.
 
