@@ -30,3 +30,23 @@ This project is built using a modern React development stack:
 
 ---
 
+## 🛠️ Getting Started
+
+To set up and run this project on your local machine, please follow these instructions:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone <repository-url> # Replace with your actual repository URL
+    cd <repository-name>
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+    The application will typically be accessible in your web browser at `http://localhost:5173/` (or a similar address provided in your terminal).
+
+---
